@@ -1,0 +1,49 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#person, #qualities, #images {
+    text-align: center;
+    padding: 2rem;
+}
+
+#person img {
+    border-radius: 50%;
+    max-width: 200px;
+    margin-bottom: 1rem;
+}
+
+#qualities ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#qualities li {
+    margin-bottom: 0.5rem;
+}
+
+#images img {
+    max-width: 100%;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
